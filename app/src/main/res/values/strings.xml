@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Take A Note</string>
+    <string name="title">Title</string>
+    <string name="content">Contents</string>
+    <string name="date">Date</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+
+    <string name="add_note_button">Add Note Button</string>
+    <string name="search">Search</string>
+    <string name="sort_by">Sort by</string>
+    <string name="priority_high">Priority High</string>
+    <string name="priority_low">Priority Low</string>
+    <string name="delete_all">Delete All Notes</string>
+    <string name="save_note">Save This Note</string>
+    <string name="delete_note">Delete This Note</string>
+    <string name="update_note">Update This Note</string>
+    <string name="notes_are_empty">Notes are empty</string>
+    <string name="date_newest">Date (Newest)</string>
+    <string name="date_oldest">Date (Oldest)</string>
+    <string name="color">Color</string>
+    <string name="set_priority">Set Priority</string>
+    <string name="update_priority">Update Priority</string>
+</resources>
